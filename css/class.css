@@ -1,0 +1,58 @@
+body{
+	background: url('full screen/9.jpg');
+	
+}
+
+#class a{
+	color: rgb(52, 50, 56);
+    font-family: "Iceberg",cursive;
+    font-size: 37px;
+    
+    margin-top: 155px;
+    text-decoration: none;
+    border: 3px solid rgb(52, 50, 56);
+    padding-top: 19px;
+    padding-left: 42px;
+    padding-right: 15px;
+
+}
+#class a:hover{
+	background-color: rgb(52, 50, 56);
+	color: rgb(222, 222, 222);
+	
+}
+h1{
+	
+	font-size: 60px;
+	color: rgb(52, 50, 56);
+	font-family: 'Iceberg', cursive;
+	/*margin-left: 171px;*/
+	border-bottom: 2px dashed ;
+	text-align: center;
+
+}
+h2{
+
+ color: rgb(52, 50, 56);
+    font-family: "Iceberg",cursive;
+    font-size: 34px;
+    margin-left: 338px
+
+
+}
+i{
+	
+	margin-left: 24px;
+    margin-top: 56px;
+
+}
+#class{
+	margin-left: 464px;
+	margin-top: 38px;
+}
+#footer{
+	font-family: "Iceberg",cursive;
+	bottom: 5px;
+	font-size: 15px;
+	position: absolute;
+}

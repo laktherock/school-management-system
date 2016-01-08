@@ -1,0 +1,27 @@
+#container {
+    
+    text-align: center;
+    width: 50%;
+    margin-left: 346px;
+    margin-top: 44px;
+}
+input[type="text"] {
+    font-size: 20px;
+    margin: 13px;
+    padding: 4px;
+}
+input[type="submit"] {
+    background-color: #3CB29D;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+    margin-left: 2px;
+    padding: 0.7em 3.5em;
+    margin-top: 26px;
+    margin-bottom: 14px;
+}
+select {
+    font-size: 20px;
+    margin: 9px;
+    padding: 1px;
+}
